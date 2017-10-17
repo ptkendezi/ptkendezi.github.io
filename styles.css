@@ -1,0 +1,72 @@
+
+
+body {background: wheat;
+		color: saddlebrown;
+		font-family: 'Farsan', sans-serif,;
+		font-size: 14pt;}
+
+h1
+		{color: slategray;
+		font-family: 'Rock Salt';
+		text-shadow: 3px 3px 3px #aaa;
+		font-size: 30pt;}
+
+h1
+	{text-align: center}
+
+h2
+	{color: slategray;
+		font-family: 'Rock Salt';
+		font-size: 13pt;}
+
+h2
+	{text-align: center;}
+
+h4
+		{color: slategray;
+			font-family: 'Rock Salt';
+			text-shadow: 2px 2px 2px #aaa;
+			font-size: 15pt;}
+
+a {color: darkblue;
+	text-decoration: none;}
+a:hover {color:saddlebrown;}
+
+span {float: left;
+		width: 0.7em;
+		font-size:500%;
+		line-height: 75%;
+		margin: 4px;}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: dimgray;
+}
+
+nav li {
+    float: left;
+}
+
+nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+nav li a:hover {
+    background-color: silver;
+}
+
+li {display: inline-block;}
+
+.picture {float: left;
+			margin: 8px 8px 8px;}
+.article {clear: all;
+			margin: 0 0 0 10px 10px 10px;}
+
